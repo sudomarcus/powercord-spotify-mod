@@ -54,6 +54,7 @@
       position: relative;
       height: 2px;
       transition: height .2s;
+      background-color: var(--background-secondary);
 
       &-progress {
         height: 100%;
